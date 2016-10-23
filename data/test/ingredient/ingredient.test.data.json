@@ -1,0 +1,20 @@
+{
+	"ingredienten": [
+		{
+			"naam": "appel",
+			"nota": "Appelnota",
+			"beschrijving": "Hele lekkere appeltjes",
+			"inDiepvries": true,
+			"maandenInSeizoen": [1,4,10],
+			"tags": [ "lekker", "heel lekker" ]
+		},
+		{
+			"naam": "peer",
+			"nota": "Peernota",
+			"beschrijving": "Hele lekkere peertjes",
+			"inDiepvries": false,
+			"maandenInSeizoen": [2,5,12],
+			"tags": [ "lekker", "pere-lekker" ]
+		}
+	]
+}
